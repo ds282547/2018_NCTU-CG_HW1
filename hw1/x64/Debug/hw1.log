@@ -1,0 +1,20 @@
+﻿  Main.cpp
+d:\course\cg\0756078 (1)\hw1\image.hpp(31): warning C4267: '=': 將 'size_t' 轉換為 'unsigned long'，資料可能遺失
+d:\course\cg\0756078 (1)\hw1\image.hpp(38): warning C4267: '=': 將 'size_t' 轉換為 'unsigned long'，資料可能遺失
+d:\course\cg\0756078 (1)\hw1\image.hpp(55): warning C4267: '=': 將 'size_t' 轉換為 'unsigned long'，資料可能遺失
+d:\course\cg\0756078 (1)\hw1\image.hpp(71): warning C4267: '=': 將 'size_t' 轉換為 'unsigned long'，資料可能遺失
+Main.obj : error LNK2019: 無法解析的外部符號 glutInit 在函式 main 中被參考
+Main.obj : error LNK2019: 無法解析的外部符號 glutInitDisplayMode 在函式 main 中被參考
+Main.obj : error LNK2019: 無法解析的外部符號 glutInitWindowPosition 在函式 main 中被參考
+Main.obj : error LNK2019: 無法解析的外部符號 glutInitWindowSize 在函式 main 中被參考
+Main.obj : error LNK2019: 無法解析的外部符號 glutMainLoop 在函式 main 中被參考
+Main.obj : error LNK2019: 無法解析的外部符號 glutCreateWindow 在函式 main 中被參考
+Main.obj : error LNK2019: 無法解析的外部符號 glutPostRedisplay 在函式 "void __cdecl Tick(int)" (?Tick@@YAXH@Z) 中被參考
+Main.obj : error LNK2019: 無法解析的外部符號 glutSwapBuffers 在函式 "void __cdecl Display(void)" (?Display@@YAXXZ) 中被參考
+Main.obj : error LNK2019: 無法解析的外部符號 glutDisplayFunc 在函式 main 中被參考
+Main.obj : error LNK2019: 無法解析的外部符號 glutReshapeFunc 在函式 main 中被參考
+Main.obj : error LNK2019: 無法解析的外部符號 glutKeyboardFunc 在函式 main 中被參考
+Main.obj : error LNK2019: 無法解析的外部符號 glutTimerFunc 在函式 "void __cdecl Tick(int)" (?Tick@@YAXH@Z) 中被參考
+Main.obj : error LNK2019: 無法解析的外部符號 glutSolidCube 在函式 "public: void __cdecl DoublePendulum::render(void)" (?render@DoublePendulum@@QEAAXXZ) 中被參考
+D:\Course\CG\0756078 (1)\hw1\GL\glut32.lib : warning LNK4272: 程式庫電腦類型 'x86' 與目標電腦類型 'x64' 發生衝突
+D:\Course\CG\0756078 (1)\x64\Debug\hw1.exe : fatal error LNK1120: 13 個無法解析的外部符號

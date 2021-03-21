@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\course\cg\0756078 (1)\hw1\main.cpp(8): warning C4005: '_CRT_SECURE_NO_WARNINGS': 巨集重複定義
+  d:\course\cg\0756078 (1)\hw1\main.cpp: note: 請參閱 '_CRT_SECURE_NO_WARNINGS' 之前的定義
+  hw1.vcxproj -> D:\Course\CG\0756078 (1)\Debug\hw1.exe
